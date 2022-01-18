@@ -1,0 +1,6 @@
+#1. Write a function that gets a list of coordinates as an argument
+
+# 2D board
+for i in range(11):
+  for j in range(11):
+      print('-', end=' ')
